@@ -1,0 +1,64 @@
+Jan 17 12:12 : exception: Failed to open '/home/neo/.mpd/mpdstate': No such file or directory
+Jan 17 12:12 : exception: Failed to access /home/neo/Music: No such file or directory
+Jan 17 12:12 : config: option 'device' on line 13 was not recognized
+Jan 17 12:17 : update: added /KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus
+Jan 17 12:18 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 12:20 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 14:38 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 16:29 : config: option 'device' on line 13 was not recognized
+Jan 17 16:30 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 16:31 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 16:32 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 19:26 : config: option 'device' on line 13 was not recognized
+Jan 17 19:27 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 19:37 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 17 19:38 : config: option 'device' on line 13 was not recognized
+Jan 18 00:28 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 18 00:28 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 18 00:29 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 18 00:29 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 19 01:21 : config: option 'device' on line 13 was not recognized
+Jan 19 07:58 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 19 23:48 : config: option 'device' on line 13 was not recognized
+Jan 19 23:53 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 24 14:56 : config: option 'device' on line 13 was not recognized
+Jan 24 15:00 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 24 15:00 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 24 15:00 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 25 19:06 : config: option 'device' on line 13 was not recognized
+Jan 26 03:01 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 26 02:46 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 02:46 : config: option 'device' on line 13 was not recognized
+Jan 26 02:46 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 26 03:08 : config: option 'device' on line 13 was not recognized
+Jan 26 03:09 : config: option 'device' on line 13 was not recognized
+Jan 26 03:12 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 03:12 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 26 03:12 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 03:12 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 26 03:12 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 03:12 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 03:12 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 26 16:49 : config: option 'device' on line 13 was not recognized
+Jan 26 17:22 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 17:22 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 26 17:22 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 26 17:49 : config: option 'device' on line 13 was not recognized
+Jan 27 23:20 : config: option 'device' on line 13 was not recognized
+Jan 27 23:20 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 27 23:20 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 27 23:20 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 27 23:20 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 27 23:21 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 27 23:21 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 27 23:21 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 27 23:21 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 27 23:21 : exception: Failed to decode /home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus; Failed to open '/home/neo/Music/KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus': No such file or directory
+Jan 27 23:21 : player: played "KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus"
+Jan 27 23:21 : update: removing KOMM, SUSSER TOD (M-10 Director's Edit Version) [rQiHzcdUPAU].opus
+Jan 27 23:21 : update: added /Sewerslvt - Skitzofrenia Simulation - 12 Never Existed.flac
+Jan 27 23:25 : player: played "Sewerslvt - Skitzofrenia Simulation - 12 Never Existed.flac"
+Jan 27 23:25 : player: played "Sewerslvt - Skitzofrenia Simulation - 12 Never Existed.flac"
+Jan 27 23:26 : player: played "Sewerslvt - Skitzofrenia Simulation - 12 Never Existed.flac"
+Jan 27 23:27 : player: played "Sewerslvt - Skitzofrenia Simulation - 12 Never Existed.flac"
+Jan 27 23:30 : player: played "Sewerslvt - Skitzofrenia Simulation - 12 Never Existed.flac"
